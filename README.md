@@ -1,6 +1,6 @@
 SHELL BASH LINUX
 
-Consiste en un código en lenguaje bash para una shell interactiva, adaptada a Linux que permite acceder a varios modos, como juegos, dibujos ASCII, ejecutar documentos de tu escritorio, etc.
+Consiste en un código en lenguaje BASH para una Shell Interactiva, adaptada a Linux que permite acceder a varios modos, como juegos, dibujos ASCII, ejecutar documentos de tu escritorio, etc.
 
 Incluye funciones que permiten:
 - Instalar rutas y ficheros
